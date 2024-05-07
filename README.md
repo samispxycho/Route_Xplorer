@@ -1,1 +1,1 @@
-# Route_Xplorer
+Route_Xplorer harnesses advanced algorithms, including Dijkstra's algorithm, to compute the optimal route between user-defined origin and destination points. Whether users prioritize speed or cost-effectiveness, Route_Xplorer intelligently analyzes factors such as travel time and transportation costs to provide tailored route recommendations. This algorithmic approach ensures that users receive optimized routes that meet their specific preferences and requirements, enhancing the efficiency and effectiveness of their travel planning endeavors.
